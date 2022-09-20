@@ -1,9 +1,13 @@
 `Trabalho para a obtenção de nota para a disciplina de Desenvolvimento WEB III`
 
 **Aluno:** Íkaro Beraldo da Silveira Balestrin
+
 **GitHub:** ikarobsb
+
 **Curso:** DSM 3º Semestre Noturno
+
 **Repositório:** https://github.com/ikarobsb/trabalhoWebIII
+
 **Hospodagem:** https://rankingikaro.netlify.app/
 
 ## Descrição do Projeto
